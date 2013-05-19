@@ -1,5 +1,5 @@
 class MeuPrograma {
 	public static void main(String[] args) {
-		System.out.println("Meu Primeiro programa!");
+		System.out.println("Imprimindo uma mensagem diferente!");
 	}
 }
